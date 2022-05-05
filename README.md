@@ -1,5 +1,11 @@
 # HashiCorp Certified Terraform Associate Practice Exam
 
+## Description
+
+HashiCorp Associate Certification exams consists of multiple choice, multiple answer, true/false, and other question types. Below are some examples so you can familiarize yourself with the exam format. None of the questions on HashiCorp exams are intended to trick you. We want to test your knowledge of Terraform, not how well you spell or how good you are at identifying obscure details.
+
+## Examples
+
 ![Screenshot_1](./images/Screenshot_1.png)
 ![Screenshot_2](./images/Screenshot_2.png)
 ![Screenshot_3](./images/Screenshot_3.png)
@@ -80,3 +86,11 @@
 ![Screenshot_78](./images/Screenshot_78.png)
 ![Screenshot_79](./images/Screenshot_79.png)
 ![Screenshot_80](./images/Screenshot_80.png)
+
+## Resources
+
+- [Sample Questions - Terraform Associate Certification](https://learn.hashicorp.com/tutorials/terraform/associate-questions)
+
+- [Study Guide - Terraform Associate Certification](https://learn.hashicorp.com/tutorials/terraform/associate-study?in=terraform/certification)
+
+- [Exam Review - Terraform Associate Certification](https://learn.hashicorp.com/tutorials/terraform/associate-review?in=terraform/certification)
