@@ -87,6 +87,17 @@ HashiCorp Associate Certification exams consists of multiple choice, multiple an
 ![Screenshot_79](./images/Screenshot_79.png)
 ![Screenshot_80](./images/Screenshot_80.png)
 
+## Contributing
+
+If you would like to contribute to this repository, please follow the steps below:
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Submit a pull request
+5. Wait for the pull request to be reviewed and merged
+6. :tada: Celebrate! :tada:
+
 ## Resources
 
 - [Sample Questions - Terraform Associate Certification](https://learn.hashicorp.com/tutorials/terraform/associate-questions)
