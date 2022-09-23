@@ -1,3 +1,5 @@
+![Terraform](./images/terraform.png)
+
 # HashiCorp Certified Terraform Associate Practice Exam
 
 ## Description
