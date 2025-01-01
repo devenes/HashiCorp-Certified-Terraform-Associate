@@ -1,6 +1,6 @@
-![Terraform](./images/terraform.png)
-
 # HashiCorp Certified Terraform Associate Practice Exam
+
+![Terraform](./images/terraform.png)
 
 ## Description
 
@@ -88,6 +88,10 @@ HashiCorp Associate Certification exams consists of multiple choice, multiple an
 ![Screenshot_78](./images/Screenshot_78.png)
 ![Screenshot_79](./images/Screenshot_79.png)
 ![Screenshot_80](./images/Screenshot_80.png)
+
+### Disclaimer
+
+While every effort has been made to ensure accuracy, some answers may be incorrect. Please conduct your own research to verify the information. Additionally, the questions provided do not represent actual exam questions. This document is intended solely for testing your knowledge and enhancing your practice.
 
 ## Contributing
 
